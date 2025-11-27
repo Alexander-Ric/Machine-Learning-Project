@@ -7,6 +7,8 @@
 ### 📌 Descripción General
 Este proyecto implementa un sistema completo de **predicción de precios de cartas de Digimon TCG** mediante **Machine Learning** y una **aplicación web en Streamlit**.  
 Incluye un modelo híbrido, datos procesados, notebooks de desarrollo y scripts de entrenamiento.
+El modelo está desarrollado como un proyecto estudiantil para The Bridge Academy por Alexander Ricart Expósito.
+Tutorizado por el Lead Instructor Borja Barber.
 
 ### 🗂️ Estructura
 ```
@@ -31,6 +33,8 @@ streamlit run app/streamlit_app.py
 ### 📌 Overview
 This project provides a **Digimon TCG card price prediction system** using **Machine Learning** and a **Streamlit web app**.  
 It includes a hybrid model, processed datasets, development notebooks and training scripts.
+The model is made as a student project for The Bridge Academy by Alexander Ricart Exposito.
+Tutorized by Lead Instructor Mr. Borja Barber.
 
 ### 🗂️ Structure
 ```
