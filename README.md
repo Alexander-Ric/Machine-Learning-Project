@@ -1,6 +1,6 @@
 # 🃏 Digimon TCG – Predicción de Precios / Price Prediction
 
-![header](assets/intro.avif)
+![header](assets/intro%20README.avif)
 
 ## 🇪🇸 Español
 
